@@ -8,6 +8,7 @@ Inspired by Fabien Sanglard's [0x10 rules](https://fabiensanglard.net/ilike/inde
 
 ## Index
 
+* [Documentation](./documentation.md)
 * [GIT Repositories](./git-repos.md)
 * [Docker-Compose Projects](./docker-compose.md)
 * [Go Projects](./golang.md)

@@ -1,6 +1,6 @@
 # Desired State Checklist: Documentation
 
-* I like documentation expresses its goals upfront.
+* I like documentation that expresses its goals upfront.
 * I like documents, posts, etc, that by in large, fall into one category and stay consistent:
   * **Tutorials** are learning oriented.
   * **How To Guide**: problem oriented, like recipes.
