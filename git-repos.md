@@ -18,3 +18,4 @@
   * Treats goldenfiles and testdata as binary
 * I like being able to run a linter against the project using a Docker container.
 * I dislike active projects that don’t have their documentation periodically audited and updated.
+* I like non-trivial repos that include a [architecture.md](https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html) ([archive link](https://archive.is/bsIbE)).
